@@ -1,0 +1,41 @@
+
+h1 {
+    display: inline; 
+    vertical-align: middle; 
+    color: cadetblue;
+}  
+    
+p {
+    display: block;
+}
+
+h3 {
+    display: block;
+} 
+
+img {width: 80vw;
+    vertical-align: middle;
+}
+
+body {
+    background-color: aliceblue;
+}
+
+img {width: 80vw;
+    vertical-align: middle;
+}
+    
+
+img {width: 80vw;
+    vertical-align: middle;
+}
+    
+img {width: 80vw;
+    vertical-align: middle;
+}
+    
+
+
+a {
+    padding: 0px 10px 0px 0px
+}
