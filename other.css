@@ -12,10 +12,26 @@ p {display: block
 h3 {
     display: block; 
 
-img {
+img {width: 80vw;
     vertical-align: middle
 }
 
 body {
-    background-color:aliceblue
+    background-color: aliceblue
+    
+}
+
+img {width: 80vw;
+    vertical-align: middle
+    
+}
+
+img {width: 80vw;
+    vertical-align: middle
+    
+}
+
+img {width: 80vw;
+    vertical-align: middle
+    
 }
